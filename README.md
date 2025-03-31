@@ -1,4 +1,6 @@
 # TIL 📓
+[기록 벨로그](https://velog.io/@hyunm1n-o/posts)
+
 Today I Learned
 |날짜|내용|
 |----|---|
@@ -14,5 +16,3 @@ Today I Learned
 |2025.03.26|[\[swift\] enumerated()](https://velog.io/@hyunm1n-o/swift%EB%AC%B8%EC%9E%90%EC%97%B4-%EB%AC%B8%EC%9E%90%EC%97%B4-%EA%B3%B5%EB%B0%B1-%EB%B0%8F-%ED%8A%B9%EC%A0%95-%EB%AC%B8%EC%9E%90-%EC%A0%9C%EA%B1%B0)
 |2025.03.31|[\[swift\] Set으로 중복 검사](https://velog.io/@hyunm1n-o/swift-Set%EC%9C%BC%EB%A1%9C-%EC%A4%91%EB%B3%B5-%EA%B2%80%EC%82%AC)
 
---- 
-[기술]
